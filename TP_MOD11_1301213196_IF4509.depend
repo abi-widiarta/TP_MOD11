@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670160322 source:d:\1. kuliah\kuliah materi\semester 3\praktikum struktur data\mod11\tp_mod11_1301213196_if4509\main.cpp
+	"queue.h"
+	<iostream>
+
+1670159883 source:d:\1. kuliah\kuliah materi\semester 3\praktikum struktur data\mod11\tp_mod11_1301213196_if4509\queue.cpp
+	"queue.h"
+
+1670159073 d:\1. kuliah\kuliah materi\semester 3\praktikum struktur data\mod11\tp_mod11_1301213196_if4509\queue.h
+	<iostream>
+
